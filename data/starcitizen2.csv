@@ -18,7 +18,7 @@
 16,Ares Star Fighter Inferno,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,343454.97,Flight Ready,CRSD,
 17,Ares Star Fighter Ion,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,342194.97,Flight Ready,CRSD,
 18,Arrow,Small,Light Fighter,270,1235,0,1,1,16,12,4,34377,Flight Ready,ANVL,
-19,Aurora CL,Light Freight,Small,185,1095,6,1,1,18,8,4,25172,Flight Ready,RSI,
+19,Aurora CL,Small,Light Freight,185,1095,6,1,1,18,8,4,25172,Flight Ready,RSI,
 20,Aurora ES,Small,Starter;Pathfinder,190,1140,3,1,1,18,8,4,25172,Flight Ready,RSI,
 21,Aurora LN,Small,Light Fighter,185,1210,3,1,1,18,8,4,25338,Flight Ready,RSI,
 22,Aurora LX,Small,Pathfinder,190,1200,3,1,1,18,8,4,25017,Flight Ready,RSI,
@@ -46,8 +46,8 @@
 44,Constellation Phoenix,Large,Touring,144,911,96,3,4,61,26,14,417510,Flight Ready,RSI,Alpha 3.3.0
 45,Constellation Phoenix Emerald,Large,Touring,144,911,96,3,4,61,26,14,417510,Flight Ready,RSI,Alpha 3.4.0
 46,Constellation Taurus,Large,Medium Freight,144,911,174,3,4,61,26,14,431529.28,Flight Ready,RSI,
-47,Corsair,Large,Exploration,,,72,1,4,55,27,31,,Production,DRAK,TBA
-48,Crucible,Large,Heavy Repair,,,230,3,8,90,50,20,3650500,Announced,ANVL,TBA
+47,Corsair,Large,Exploration,160,950,72,1,4,55,27,31,434629,Production,DRAK,TBA
+48,Crucible,Large,Heavy Repair,140,900,230,3,8,90,50,20,3650500,Announced,ANVL,TBA
 49,Cutlass Black,Medium,Medium Fighter;Medium Freight,220,1115,46,2,2,29,26.5,10,226700,Flight Ready,DRAK,
 50,Cutlass Black Best In Show Edition,Medium,Medium Fighter;Medium Freight,220,1115,46,2,2,29,26.5,10,226700,Flight Ready,DRAK,?
 51,Cutlass Black Best in Show 2950 Edition,Medium,Medium Fighter;Medium Freight,220,1115,46,2,2,29,26.5,10,226700,Flight Ready,DRAK,
@@ -55,7 +55,7 @@
 53,Cutlass Red,Medium,Medical,165,1198,12,2,2,36,26,12,226700,Flight Ready,DRAK,
 54,Cutter,Snub,,,,,,,,,,,Announced,[[]],
 55,Defender,Small,Light Fighter,203,1200,0,1,2,25.5,20,8,78406,Flight Ready,SOUL,
-56,Driller,Capital,Escort and troop carrier,60,900,,15,100,2400,710,625,10218790,Production,VNCL,
+56,Driller,Capital,Escort and troop carrier,60,900,1,15,100,2400,710,625,10218790,Production,VNCL,
 57,Eclipse,Medium,Stealth Bomber,195,980,0,1,1,20.5,36.6,4.4,57938.02,Flight Ready,AEGS,Alpha 3.2.0
 58,Eclipse Best in Show 2950 Edition,Medium,Stealth Bomber,195,980,0,1,1,20.5,36.6,4.4,54216,Flight Ready,AEGS,Alpha 3.11.1
 59,Endeavor,Capital,Heavy Science,30,900,500,1,5,200,48,20,4055000,Announced,MISC,
@@ -103,13 +103,13 @@
 101,Liberator,Large,Transporter,115,970,400,1,2,119,67,25,2600820,Announced,ANVL,
 102,M2 Hercules Starlifter,Large,Transport Military,130,962,522,1,3,94,70,23,3139240,Flight Ready,CRSD,
 103,M50,Small,Racing,330,1345,0,1,1,11,10,3,10580,Flight Ready,ORIG,?
-104,MOLE,Medium,Prospecting and Mining,127,1089,288 (24*12),1,4,45,25,15,,Flight Ready,ARGO,
-105,MOLE Carbon,Medium,Prospecting and Mining,,,288 (24*12),1,4,45,25,15,,Flight Ready,ARGO,
-106,MOLE Talus,Medium,Prospecting and Mining,,,288 (24*12),1,4,45,25,15,,Flight Ready,ARGO,
+104,MOLE,Medium,Prospecting and Mining,127,1089,288,2,4,45,25,15,1169686,Flight Ready,ARGO,
+105,MOLE Carbon,Medium,Prospecting and Mining,128,1090,288,2,4,45,25,15,1169686,Flight Ready,ARGO,
+106,MOLE Talus,Medium,Prospecting and Mining,128,1090,288,2,4,45,25,15,1169686,Flight Ready,ARGO,
 107,MPUV Cargo,Snub,Light Freight,150,900,2,1,1,9.5,8.5,4.3,12187,Flight Ready,ARGO,
 108,MPUV Personnel,Snub,Passenger,150,920,0,1,1,9.3,8.5,4.3,12307,Flight Ready,ARGO,
 109,Mantis,Small,Military;Stealth,168,1220,0,1,1,30,17,8,225621,Flight Ready,RSI,
-110,Merchantman,Large,Heavy Freight,,,2880,4,8,160,160,65,9635000,Production,SOUL,
+110,Merchantman,Large,Heavy Freight,200,1150,2880,4,8,160,160,65,9635000,Production,SOUL,
 111,Mercury Star Runner,Medium,Medium Cargo;Medium Data,215,1287,114,2,3,56,51,16,1633722,Flight Ready,CRSD,
 112,Mustang Alpha,Small,Cargo,255,1160,4,1,1,21.5,18,9,32970,Flight Ready,CNOU,?
 113,Mustang Alpha Vindicator,Small,Starter;Light Freight,255,1160,4,1,1,17.5,15.5,5.5,32970,Flight Ready,CNOU,?
@@ -117,23 +117,23 @@
 115,Mustang Delta,Small,Light Fighter,240,1225,0,1,1,21,18,9,37345,Flight Ready,CNOU,
 116,Mustang Gamma,Small,Racing,325,1340,0,1,1,21.5,18,9,30263,Flight Ready,CNOU,?
 117,Mustang Omega,Small,Racing,325,1340,0,1,1,21.5,18,9,30263,Flight Ready,CNOU,?
-118,Nautilus,Large,Minelayer,115,,64,4,8,125,72,21.6,13526320,Announced,AEGS,TBA
-119,Nautilus Solstice,Large,Minelayer,115,,64,4,8,125,72,21.6,13526320,Announced,AEGS,TBA
+118,Nautilus,Large,Minelayer,115,950,64,4,8,125,72,21.6,13526320,Announced,AEGS,TBA
+119,Nautilus Solstice,Large,Minelayer,115,950,64,4,8,125,72,21.6,13526320,Announced,AEGS,TBA
 120,Nomad,Small,Light Freight,180,1171,24,1,1,26.5,18.3,9.2,228123,Flight Ready,CNOU,
-121,Odyssey,Large,Expedition,,,252,1,6,140,90,35,,Announced,MISC,
-122,Orion,Capital,Heavy Mining,,,384,4,7,170,50,50,26496000,Announced,RSI,TBA
+121,Odyssey,Large,Expedition,70,950,252,1,6,140,90,35,453823,Announced,MISC,
+122,Orion,Capital,Heavy Mining,90,1000,384,4,7,170,50,50,26496000,Announced,RSI,TBA
 123,P-52 Merlin,Snub,Snub Fighter,270,1030,0,1,1,12,7.7,2.2,8493,Flight Ready,KRIG,
-124,P-72 Archimedes,Snub,Racing,250,,0,1,1,12,7.7,2.2,8290,Flight Ready,KRIG,Alpha 3.6.0
-125,P-72 Archimedes Emerald,Snub,Racing,250,,0,1,1,12,7.7,2.2,8290,Flight Ready,KRIG,Alpha 3.10.0
-126,Pegasus,Capital,Escort Carrier,,,,,,,,,,Production,RSI,
-127,Perseus,Large,Gunship,92,,50,6,6,100,50,21,,Concept,RSI,TBA
-128,Pioneer,Capital,Heavy Construction,85,,600,4,8,200,125,30,35600000,Announced,CNOU,TBA
+124,P-72 Archimedes,Snub,Racing,250,1340,0,1,1,12,7.7,2.2,8290,Flight Ready,KRIG,Alpha 3.6.0
+125,P-72 Archimedes Emerald,Snub,Racing,250,1340,0,1,1,12,7.7,2.2,8290,Flight Ready,KRIG,Alpha 3.10.0
+126,Pegasus,Capital,Escort Carrier,60,900,2000,1,25,147,45,28,35600000,Production,RSI,
+127,Perseus,Large,Gunship,92,1120,50,6,6,100,50,21,3560000,Concept,RSI,TBA
+128,Pioneer,Capital,Heavy Construction,85,980,600,4,8,200,125,30,32400000,Announced,CNOU,TBA
 129,Pirate Gladius,Small,Light Fighter,207,1235,0,1,1,20,17,5.5,57685.06,Flight Ready,AEGS,
-130,Polaris,Capital,Corvette,,,216,6,14,155,82,35,17155000,Concept,RSI,TBA
+130,Polaris,Capital,Corvette,120,1100,216,6,14,155,82,35,17155000,Concept,RSI,TBA
 131,Prospector,Small,Prospecting and Mining,200,1210,0,1,1,24,15,7,146117.98,Flight Ready,MISC,
 132,Prowler,Medium,Dropship,178,1116,0,2,2,34,33,15,171700,Flight Ready,ESRA,Alpha 3.9.0
 133,RAFT,Medium,Medium Freight,134,839,96 (3x32),1,2,39.5,23,12,1183477.88,Flight Ready,ARGO,
-134,Railen,Medium,Cargo,,,320,,4,Flight: 53.0 metersLanded: 65.0,Flight: 52.0 metersLanded: 52.0,Flight: 67.0 metersLanded: 37.0,,Concept,GAMA,
+134,Railen,Medium,Cargo,120,1090,320,1,4,54,52,67,224230,Concept,GAMA,
 135,Razor,Small,Racing,335,1345,0,1,1,11.5,8.2,2.7,10925,Flight Ready,MISC,Alpha 3.1.0
 136,Razor EX,Small,Stealth,325,1340,0,1,1,11.5,8.2,2.7,10925,Flight Ready,MISC,?
 137,Razor LX,Small,Luxury,340,1345,0,1,1,11.5,8.2,2.7,10925,Flight Ready,MISC,?
@@ -141,31 +141,31 @@
 139,Reclaimer Best In Show Edition,Large,Heavy Salvage,100,930,180,4,5,155,118,50,9500158,Flight Ready,AEGS,?
 140,Redeemer,Medium,Gunship,139,959,2,3,4,37.5,19.5,11,473296.41,Flight Ready,AEGS,
 141,Reliant Kore,Small,Starter;Light Freight,220,1150,6,1,2,14.5,28.5,4,38566,Flight Ready,MISC,Alpha 2.5.0
-142,Reliant Mako,Small,Reporting,,,0,1,2,14.5,28.5,4,38566,Flight Ready,MISC,Alpha 3.5.0
-143,Reliant Sen,Small,Light Science,,,2,1,2,14.5,28.5,4,38566,Flight Ready,MISC,Alpha 3.5.0
-144,Reliant Tana,Small,Light Fighter,,,1,1,2,14.5,28.5,4,38566,Flight Ready,MISC,
+142,Reliant Mako,Small,Reporting,166,1150,0,1,2,14.5,28.5,4,38566,Flight Ready,MISC,Alpha 3.5.0
+143,Reliant Sen,Small,Light Science,166,1150,2,1,2,14.5,28.5,4,38566,Flight Ready,MISC,Alpha 3.5.0
+144,Reliant Tana,Small,Light Fighter,166,1150,1,1,2,14.5,28.5,4,38566,Flight Ready,MISC,
 145,Retaliator Base,Large,Heavy Bomber,185,815,0,4,7,69.5,42.5,12.5,300392,Production,AEGS,TBA
 146,Retaliator Bomber,Large,Heavy Bomber,145,814,0,4,7,69.5,42.5,12.5,348634.34,Flight Ready,AEGS,
-147,SRV,Small,Industrial;Civilian,200,,10,1,1,28.5,19.5,8.7,231680,Announced,ARGO,TBA
+147,SRV,Small,Industrial;Civilian,200,1215,10,1,1,28.5,19.5,8.7,231680,Announced,ARGO,TBA
 148,Sabre,Small,Stealth Fighter,275,1235,0,1,1,24,26,5,92235.71,Flight Ready,AEGS,
 149,Sabre Comet,Small,Stealth Fighter,215,1235,0,1,1,24,26,5,78513,Flight Ready,AEGS,Alpha 2.6.0
 150,Sabre Raven,Small,Interdiction,275,1235,0,1,1,24,20.5,5,69433,Flight Ready,AEGS,Alpha 3.0.0
-151,San'tok.yƒÅi,Medium,Medium Fighter,265,,0,1,1,24,23,10,106566,Concept,AOPA,TBA
-152,Scorpius,Small,Heavy Fighter,,,0,1,2,Flying: 24.5 metersLanded: 30.0,Flying: 33.0 metersLanded: 13.2,Flying: 13.0 metersLanded: 6.1,,Production,RSI,
+151,San'tok.yƒi,Medium,Medium Fighter,265,1265,0,1,1,24,23,10,106566,Concept,AOPA,TBA
+152,Scorpius,Small,Heavy Fighter,250,1368,0,1,2,Flying: 24.5 metersLanded: 30.0,Flying: 33.0 metersLanded: 13.2,Flying: 13.0 metersLanded: 6.1,,Production,RSI,
 153,Scythe,Small,Medium Fighter,194,1230,0,1,1,31,23,8.5,73941.98,Flight Ready,[[Vanduul Clans (originally)Esperia (human conversion)]],
-154,Scythe (vanduul),Small,Medium Fighter,,,,1,1,,,,,Production,VNCL,
-155,Starfarer,Large,Heavy Refuelling,890,,291,4,8,101,46.5,23.5,3510025,Flight Ready,MISC,
-156,Starfarer Gemini,Large,Heavy Refuelling,890,,291,4,6,101,46.5,23.5,3517864,Flight Ready,MISC,
+154,Scythe (vanduul),Small,Medium Fighter,195,1250,0,1,1,31,23,9,73941.98,Production,VNCL,
+155,Starfarer,Large,Heavy Refuelling,85,888,291,4,8,101,46.5,23.5,3510025,Flight Ready,MISC,
+156,Starfarer Gemini,Large,Heavy Refuelling,85,888,291,4,6,101,46.5,23.5,3517864,Flight Ready,MISC,
 157,Talon,Small,Light Fighter,250,1235,0,1,1,20,18,5,60836.04,Flight Ready,ESRA,
 158,Talon Shrike,Small,Light Fighter,250,1235,0,1,1,20,18,5,60836.04,Flight Ready,ESRA,
 159,Terrapin,Small,Pathfinder,210,1205,0,1,1,19.5,14.5,6,172377.97,Flight Ready,ANVL,Alpha 3.1.0
-160,Valkyrie,Small,Military;Industrial,,,30,,5,38,28,9.5,75000,Flight Ready,ANVL,Alpha 3.3.0
-161,Valkyrie Best in Show 2950 Edition,Small,Military;Industrial,,,30,,5,38,28,9.5,75000,Flight Ready,ANVL,Alpha 3.11.1
-162,Valkyrie Liberator Edition,Small,Military;Industrial,,,30,,5,38,28,9.5,75000,Flight Ready,ANVL,?
-163,Vanguard Harbinger,Medium,Bomber,,,0,2,2,38,26.5,9.5,240092,Flight Ready,AEGS,
+160,Valkyrie,Small,Military;Industrial,165,1100,30,1,5,38,28,9.5,75000,Flight Ready,ANVL,Alpha 3.3.0
+161,Valkyrie Best in Show 2950 Edition,Small,Military;Industrial,165,1100,30,1,5,38,28,9.5,75000,Flight Ready,ANVL,Alpha 3.11.1
+162,Valkyrie Liberator Edition,Small,Military;Industrial,165,1100,30,1,5,38,28,9.5,75000,Flight Ready,ANVL,?
+163,Vanguard Harbinger,Medium,Bomber,171,1022,0,2,2,38,26.5,9.5,240092,Flight Ready,AEGS,
 164,Vanguard Hoplite,Medium,Dropship,230,1020,0,2,2,38,26.5,9.5,229440,Flight Ready,AEGS,Alpha 2.6.0
-165,Vanguard Sentinel,Medium,Interdiction,,,0,2,2,38,26.5,9.5,238616,Flight Ready,AEGS,Alpha 3.7.0
+165,Vanguard Sentinel,Medium,Interdiction,171,1022,0,2,2,38,26.5,9.5,238616,Flight Ready,AEGS,Alpha 3.7.0
 166,Vanguard Warden,Medium,Heavy Fighter,225,1115,0,2,2,38,26.5,9.5,256409.25,Flight Ready,AEGS,Alpha 2.1.0
-167,Void,,Heavy Bomber,,,,,,124,90,33,,Production,VNCL,
-168,Vulcan,Medium,Medium Repair;Medium Refuel,210,,12,1,3,38.5,16.5,10,625330,Announced,AEGS,TBA
-169,Vulture,Small,Light Salvage,165,,12,1,1,33,16,9,114591,Production,DRAK,TBA
+167,Void,Large,Heavy Bomber,85,900,0,1,5,124,90,33,106460,Production,VNCL,
+168,Vulcan,Medium,Medium Repair;Medium Refuel,210,1180,12,1,3,38.5,16.5,10,625330,Announced,AEGS,TBA
+169,Vulture,Small,Light Salvage,165,1215,12,1,1,33,16,9,114591,Production,DRAK,TBA
