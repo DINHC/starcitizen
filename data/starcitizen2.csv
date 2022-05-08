@@ -1,4 +1,4 @@
-,Name,Size,Role,SCM(m/s),Boost(m/s),SCU,Crew min,Crew max,Length (m),Beam (m),Height (m),Mass(kg),Status,Manufacturer,Patch release
+,Name,Size,Role,SCM(m/s),Boost(m/s),SCU(kg),Crew min,Crew max,Length (m),Beam (m),Height (m),Mass(kg),Status,Manufacturer,Patch release
 0,100i,Small,Starter;Touring,210,1000,2,1,1,19.3,11,4,48143,Flight Ready,ORIG,
 1,125a,Small,Starter;Light Fighter,230,1150,2,1,1,19.3,11,4,48143,Flight Ready,ORIG,
 2,135c,Small,Starter;Light Freight,190,1095,6,1,1,19.3,11,4,48143,Flight Ready,ORIG,Alpha 3.11.0
@@ -70,8 +70,8 @@
 68,F7C-R Hornet Tracker,Small,Pathfinder,240,1215,0,1,1,22.5,21.5,6.5,73497,Flight Ready,ANVL,?
 69,F7C-S Hornet Ghost,Small,Stealth Fighter,235,1225,0,1,1,22.5,21.5,6.5,73454,Flight Ready,ANVL,?
 70,F8A Lightning,Small,Heavy Fighter,212,1337,0,1,1,26,24,8,161236.03,Production,ANVL,TBA
-71,F8C Lightning,Small,Heavy Fighter,212,1337,0,1,1,26,24,8,,Production,ANVL,TBA
-72,F8C Lightning Executive-Edition,Small,Heavy Fighter,212,1337,0,1,1,26,24,8,,Production,ANVL,TBA
+71,F8C Lightning,Small,Heavy Fighter,212,1337,0,1,1,26,24,8,158189,Production,ANVL,TBA
+72,F8C Lightning Executive-Edition,Small,Heavy Fighter,212,1337,0,1,1,26,24,8,158189,Production,ANVL,TBA
 73,Freelancer,Medium,Medium Freight,205,1005,66,2,4,38,23.5,9.5,209230,Flight Ready,MISC,
 74,Freelancer DUR,Medium,Expedition,154,1005,36,2,4,38,23.5,9.5,213680,Flight Ready,MISC,Alpha 3.4.0
 75,Freelancer MAX,Medium,Medium Freight,154,1005,120,2,4,38,36,9.5,336230,Flight Ready,MISC,
@@ -85,23 +85,23 @@
 83,Hammerhead Best In Show Edition,Large,Heavy Gunship,105,1000,40,3,8,115,75,16,4260000,Flight Ready,AEGS,
 84,Hawk,Small,Light Fighter,200,500,0,1,1,17,22,6.5,40000,Flight Ready,ANVL,Alpha 3.4.0
 85,Herald,Small,Medium Data,235,1360,0,1,1,23.5,12.5,9,66031,Flight Ready,DRAK,Alpha 2.6.0
-86,Hull A,Small,Medium Freight,,,Estimated: 512,,,22,8,4,122650,Production,MISC,
-87,Hull B,Medium,Heavy Freight,,,"Estiamted: 1,024",1,1,49,15.5,17,387500,Announced,MISC,
-88,Hull C,Large,Heavy Freight,,,"Estimated: 4,608",2,4,125,55,55,886930,Production,MISC,
-89,Hull D,Capital,Heavy Freight,,,"Estimated: 6,144",3,5,209,70,70,1216000,Announced,MISC,
-90,Hull E,Capital,Heavy Freight,,,"Estimated: 8,192",4,5,372,104,104,1652000,Announced,MISC,
+86,Hull A,Small,Medium Freight,108,1000,512,1,1,22,8,4,122650,Production,MISC,
+87,Hull B,Medium,Heavy Freight,100,940,"1,024",1,1,49,15.5,17,387500,Announced,MISC,
+88,Hull C,Large,Heavy Freight,90,900,"4,608",2,4,125,55,55,886930,Production,MISC,
+89,Hull D,Capital,Heavy Freight,60,770,"6,144",3,5,209,70,70,1216000,Announced,MISC,
+90,Hull E,Capital,Heavy Freight,60,700,"8,192",4,5,372,104,104,1652000,Announced,MISC,
 91,Hurricane,Small,Heavy Fighter,265,1125,0,2,2,22,14.5,6,86454,Flight Ready,ANVL,
-92,Idris-K,Capital,Frigate,,,,,,,,,,Announced,AEGS,TBA
-93,Idris-M,Capital,Frigate,,,831,8,28,242,126,46,37866540,Production,AEGS,TBA
-94,Idris-P,Capital,Frigate,,,995,8,28,233,126,46,37310200,Announced,AEGS,TBA
-95,Javelin,Capital,Destroyer,,,5400,12,80,480,198,72,109860179,Production,AEGS,TBA
+92,Idris-K,Capital,Frigate,45,1462,995,8,28,242,126,46,37755400,Announced,AEGS,TBA
+93,Idris-M,Capital,Frigate,45,1462,831,8,28,242,126,46,37866540,Production,AEGS,TBA
+94,Idris-P,Capital,Frigate,45,1462,995,8,28,233,126,46,37310200,Announced,AEGS,TBA
+95,Javelin,Capital,Destroyer,200,1200,5400,12,80,480,198,72,109860179,Production,AEGS,TBA
 96,Khartu-Al,Small,Light Fighter,300,1325,0,1,1,31.5,12.5,8.5,67115,Flight Ready,AOPA,
-97,Kingship,Capital,Fleet Carrier,,,,,,"2,800[2]",,,,Production,VNCL,
-98,Kraken,Capital,Multi-Role - Light Carrier,,,3792,,10,270,104,64,,Announced,DRAK,TBA
-99,Kraken Conversion Kit,,,,,,,,,,,,Announced,DRAK,TBA
-100,Kraken Privateer,Capital,Multi-Role - Light Carrier,,,768,,10,270,104,64,,Announced,DRAK,TBA
-101,Liberator,Large,Transporter,115,,400,1,2,119,67,25,,Announced,ANVL,
-102,M2 Hercules Starlifter,Large,Transport Military,130,962,522,,3,94,70,23,,Flight Ready,CRSD,
+97,Kingship,Capital,Fleet Carrier,50,900,4000,1,1400,3000,1180,670,280001,Production,VNCL,
+98,Kraken,Capital,Multi-Role - Light Carrier,60,1000,3792,1,10,270,104,64,35655400,Announced,DRAK,TBA
+99,Kraken Conversion Kit,Capital,Multi-Role - Light Carrier,60,1000,3792,1,10,270,104,64,35655400,Announced,DRAK,TBA
+100,Kraken Privateer,Capital,Multi-Role - Light Carrier,60,1000,768,1,10,270,104,64,34457000,Announced,DRAK,TBA
+101,Liberator,Large,Transporter,115,970,400,1,2,119,67,25,2600820,Announced,ANVL,
+102,M2 Hercules Starlifter,Large,Transport Military,130,962,522,1,3,94,70,23,3139240,Flight Ready,CRSD,
 103,M50,Small,Racing,330,1345,0,1,1,11,10,3,10580,Flight Ready,ORIG,?
 104,MOLE,Medium,Prospecting and Mining,127,1089,288 (24*12),1,4,45,25,15,,Flight Ready,ARGO,
 105,MOLE Carbon,Medium,Prospecting and Mining,,,288 (24*12),1,4,45,25,15,,Flight Ready,ARGO,
