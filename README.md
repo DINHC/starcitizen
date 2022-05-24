@@ -34,4 +34,4 @@ Steps:
           
           *Pivot tables were made but due to some unknown error the data from a previous excel file was lost leaving behind the pivot tables which were turned into an incomplete data set. Data has been restored but I will avoid pivot tables for now.
           
-   5. Create a jupyter notebook with all necessary dependencies
+   5. Create a new jupyter notebook with all necessary dependencies
