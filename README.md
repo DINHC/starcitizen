@@ -1,11 +1,19 @@
 # starcitizen
-Starcitizen is a huge sci-fi game where you are able to purchase a variety of spaceships ranging from small fighters to larger than life cargo ships. Each ship belonging to different companies and all serving there own purpose. Thus for this repo I will try to scrape data from the wiki pertaining to the ships themselves and try top create charts if possible. 
+Starcitizen is a huge sci-fi game where you are able to purchase a variety of spaceships ranging from small fighters to larger than life cargo ships. Each ship belonging to different companies and all serving there own purpose. Thus for this repo I will try to scrape data from the wiki pertaining to the ships themselves and try to create charts if possible. 
+
+Purpose: The main purpose of this repo is to help me keep coding. The second purpose from that the final result would be a presentation to sell the ships. A sort of hypothetical. If I was in the game world and I had to sell the ships how would I do it? With the data set I have can I make a decent argument for one ship versus another?
 
 Wiki Page URL:https://starcitizen.fandom.com/wiki/List_of_ships
 
-The reason why I went with this website in particular was of how most of the ships were neatly categorized with their main specifications in a table. Other sites had the data but this was the easiest route. 
+The reason why I went with this website in particular was of how most of the ships were neatly categorized with their main specifications in a table. 
 
-Witin the data set several abbreviations/words can be seen at the top of the columns:
+     *The data is not comprehensive. There is alot of data pertaining to angles of descent, rotation seed, weaponry, and so on from the official site. This data is enough to cover the basics of the ships in the game. What is the ship used for? How fast or slow one ship might be compared to other ships in the same size or class?
+     Furthermore since the offical game is still being worked on the data is not set in stone and ships may get reworked down the line.
+
+
+*I will try to see if I can also include price. Both in-game and real world price.
+
+Within the data set several abbreviations/words can be seen at the top of the columns:
 
     SCM = Space Combat Maneuver: Speed at which a ship can easily get to when either engaging in a dogfight or escape from an enemy
 
