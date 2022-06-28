@@ -10,20 +10,20 @@
 8,600i Executive-Edition,Large,Expedition,145,975,40,2,5,91.5,52,17,1576792,Flight Ready,ORIG,,25000
 9,600i Explorer,Large,Expedition,145,975,40,2,5,91.5,52,17,1626251.25,Flight Ready,ORIG,,475
 10,600i Touring,Large,Touring,135,950,16,3,5,91.5,52,17,1576792,Flight Ready,ORIG,,350
-11,85X,Snub,Touring,255,1185,0,1,2,13,10,2,19097,Flight Ready,ORIG,,
-12,890 Jump,Capital,Touring,80,900,484,3,5,210,71,40,44246556,Flight Ready,ORIG,,
-13,A2 Hercules Starlifter,Large,Transport Gunship,135,961,216,1,8,94,70,23,3191991.75,Flight Ready,CRSD,,
-14,Apollo Medivac,Large,Support - Medical,195,1100,28,1,2,43,30,10,376500,Announced,RSI,TBA,
-15,Apollo Triage,Large,Support - Medical,205,1210,28,1,2,43,30,10,376500,Announced,RSI,TBA,
-16,Ares Star Fighter Inferno,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,343454.97,Flight Ready,CRSD,,
-17,Ares Star Fighter Ion,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,342194.97,Flight Ready,CRSD,,
-18,Arrow,Small,Light Fighter,270,1235,0,1,1,16,12,4,34377,Flight Ready,ANVL,,
-19,Aurora CL,Small,Light Freight,185,1095,6,1,1,18,8,4,25172,Flight Ready,RSI,,
-20,Aurora ES,Small,Starter;Pathfinder,190,1140,3,1,1,18,8,4,25172,Flight Ready,RSI,,
-21,Aurora LN,Small,Light Fighter,185,1210,3,1,1,18,8,4,25338,Flight Ready,RSI,,
-22,Aurora LX,Small,Pathfinder,190,1200,3,1,1,18,8,4,25017,Flight Ready,RSI,,
-23,Aurora MR,Small,Light Fighter,195,1210,3,1,1,18,8,4,28696.99,Flight Ready,RSI,,
-24,Avenger Stalker,Small,Interdiction,250,1310,0,1,1,22.5,16.5,5.5,50040,Flight Ready,AEGS,,
+11,85X,Snub,Touring,255,1185,0,1,2,13,10,2,19097,Flight Ready,ORIG,,50
+12,890 Jump,Capital,Touring,80,900,484,3,5,210,71,40,44246556,Flight Ready,ORIG,,950
+13,A2 Hercules Starlifter,Large,Transport Gunship,135,961,216,1,8,94,70,23,3191991.75,Flight Ready,CRSD,,700
+14,Apollo Medivac,Large,Support - Medical,195,1100,28,1,2,43,30,10,376500,Announced,RSI,TBA,275
+15,Apollo Triage,Large,Support - Medical,205,1210,28,1,2,43,30,10,376500,Announced,RSI,TBA,250
+16,Ares Star Fighter Inferno,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,343454.97,Flight Ready,CRSD,,220
+17,Ares Star Fighter Ion,Medium,Heavy Combat Fighter,170,818,0,1,1,27.2,30.2,5.5,342194.97,Flight Ready,CRSD,,220
+18,Arrow,Small,Light Fighter,270,1235,0,1,1,16,12,4,34377,Flight Ready,ANVL,,75
+19,Aurora CL,Small,Light Freight,185,1095,6,1,1,18,8,4,25172,Flight Ready,RSI,,45
+20,Aurora ES,Small,Starter;Pathfinder,190,1140,3,1,1,18,8,4,25172,Flight Ready,RSI,,20
+21,Aurora LN,Small,Light Fighter,185,1210,3,1,1,18,8,4,25338,Flight Ready,RSI,,40
+22,Aurora LX,Small,Pathfinder,190,1200,3,1,1,18,8,4,25017,Flight Ready,RSI,,35
+23,Aurora MR,Small,Light Fighter,195,1210,3,1,1,18,8,4,28696.99,Flight Ready,RSI,,30
+24,Avenger Stalker,Small,Interdiction,250,1310,0,1,1,22.5,16.5,5.5,50040,Flight Ready,AEGS,,60
 25,Avenger Titan,Small,Light Freight,188,1113,8,1,1,22.5,16.5,5.5,52868.42,Flight Ready,AEGS,,
 26,Avenger Titan Renegade,Small,Light Freight,188,1113,8,1,1,22.5,16.5,5.5,52868.42,Flight Ready,AEGS,,
 27,Avenger Warlock,Small,Interdiction,240,1305,0,1,1,22.5,16.5,5.5,50070,Flight Ready,AEGS,,
