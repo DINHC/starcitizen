@@ -1,0 +1,74 @@
+,Unnamed: 0,Name,Size,Role,SCM(m/s),Boost(m/s),SCU(kg),Crew min,Crew max,Length(m),Beam(m),Height(m),Mass(kg),Status,Manufacturer,Patch release,Cost (Dollars)
+0,0,100i,Small,Starter;Touring,210.0,1000.0,2,1.0,1.0,19.3,11.0,4.0,48143.0,Flight Ready,ORIG,,50.0
+1,1,125a,Small,Starter;Light Fighter,230.0,1150.0,2,1.0,1.0,19.3,11.0,4.0,48143.0,Flight Ready,ORIG,,60.0
+2,2,135c,Small,Starter;Light Freight,190.0,1095.0,6,1.0,1.0,19.3,11.0,4.0,48143.0,Flight Ready,ORIG,Alpha 3.11.0,65.0
+3,3,300i,Small,Touring,204.0,1190.0,8,1.0,1.0,27,17.0,8.0,66320.0,Flight Ready,ORIG,Patch 1 (Original)Alpha 3.5.0 (Rework),60.0
+4,4,315p,Small,Pathfinder,210.0,1225.0,12,1.0,1.0,27,17.0,8.0,69220.0,Flight Ready,ORIG,Patch 1 (Original)Alpha 3.5.1 (Rework),65.0
+5,5,325a,Small,Interdiction,225.0,1315.0,4,1.0,1.0,27,17.0,8.0,81435.0,Flight Ready,ORIG,,70.0
+6,6,350r,Small,Racing,258.0,1345.0,4,1.0,1.0,27,17.0,8.0,58530.0,Flight Ready,ORIG,Patch 1 (Original)Alpha 3.5.1 (Rework),125.0
+18,18,Arrow,Small,Light Fighter,270.0,1235.0,0,1.0,1.0,16,12.0,4.0,34377.0,Flight Ready,ANVL,,75.0
+19,19,Aurora CL,Small,Light Freight,185.0,1095.0,6,1.0,1.0,18,8.0,4.0,25172.0,Flight Ready,RSI,,45.0
+20,20,Aurora ES,Small,Starter;Pathfinder,190.0,1140.0,3,1.0,1.0,18,8.0,4.0,25172.0,Flight Ready,RSI,,20.0
+21,21,Aurora LN,Small,Light Fighter,185.0,1210.0,3,1.0,1.0,18,8.0,4.0,25338.0,Flight Ready,RSI,,40.0
+22,22,Aurora LX,Small,Pathfinder,190.0,1200.0,3,1.0,1.0,18,8.0,4.0,25017.0,Flight Ready,RSI,,35.0
+23,23,Aurora MR,Small,Light Fighter,195.0,1210.0,3,1.0,1.0,18,8.0,4.0,28696.99,Flight Ready,RSI,,30.0
+24,24,Avenger Stalker,Small,Interdiction,250.0,1310.0,0,1.0,1.0,22.5,16.5,5.5,50040.0,Flight Ready,AEGS,,60.0
+25,25,Avenger Titan,Small,Light Freight,188.0,1113.0,8,1.0,1.0,22.5,16.5,5.5,52868.42,Flight Ready,AEGS,,
+26,26,Avenger Titan Renegade,Small,Light Freight,188.0,1113.0,8,1.0,1.0,22.5,16.5,5.5,52868.42,Flight Ready,AEGS,,
+27,27,Avenger Warlock,Small,Interdiction,240.0,1305.0,0,1.0,1.0,22.5,16.5,5.5,50070.0,Flight Ready,AEGS,,
+29,29,Blade,Small,Light Fighter,290.0,1240.0,0,1.0,1.0,16.5,20.0,5.5,26056.0,Flight Ready,ESRA,,
+30,30,Blade (vanduul),Small,Light Fighter,214.0,1238.0,0,1.0,1.0,15.5,20.0,4.5,27019.0,Production,VNCL,,
+31,31,Buccaneer,Small,Interdiction,280.0,1315.0,0,1.0,1.0,15,16.0,4.5,42276.0,Flight Ready,DRAK,,
+33,33,C8 Pisces,Small,Exploration,140.0,1150.0,4,1.0,3.0,12,10.0,3.2,48143.0,Flight Ready,ANVL,,
+34,34,C8X Pisces Expedition,Small,Exploration,140.0,1150.0,4,1.0,3.0,13,10.0,3.2,48143.0,Flight Ready,ANVL,Alpha 3.7.2,
+55,55,Defender,Small,Light Fighter,203.0,1200.0,0,1.0,2.0,25.5,20.0,8.0,78406.0,Flight Ready,SOUL,,
+63,63,F7A Hornet,Small,Medium Fighter,200.0,1500.0,0,1.0,1.0,22.5,22.0,7.0,80695.01,Production,ANVL,TBA,
+64,64,F7C Hornet,Small,Medium Fighter,235.0,1225.0,2,1.0,1.0,22.5,21.5,6.5,73535.0,Flight Ready,ANVL,?,
+65,65,F7C Hornet Wildfire,Small,Medium Fighter,185.0,1224.0,0,1.0,1.0,22.5,21.5,6.5,73535.0,Flight Ready,ANVL,Alpha 2.6.0,
+66,66,F7C-M Super Hornet,Small,Medium Fighter,230.0,1220.0,0,1.0,2.0,25.5,24.0,6.5,78466.0,Flight Ready,ANVL,,
+67,67,F7C-M Super Hornet Heartseeker,Small,Medium Fighter,230.0,1220.0,0,1.0,2.0,25.5,24.0,6.5,78466.0,Flight Ready,ANVL,Alpha 3.5.0,
+68,68,F7C-R Hornet Tracker,Small,Pathfinder,240.0,1215.0,0,1.0,1.0,22.5,21.5,6.5,73497.0,Flight Ready,ANVL,?,
+69,69,F7C-S Hornet Ghost,Small,Stealth Fighter,235.0,1225.0,0,1.0,1.0,22.5,21.5,6.5,73454.0,Flight Ready,ANVL,?,
+70,70,F8A Lightning,Small,Heavy Fighter,212.0,1337.0,0,1.0,1.0,26,24.0,8.0,161236.03,Production,ANVL,TBA,
+71,71,F8C Lightning,Small,Heavy Fighter,212.0,1337.0,0,1.0,1.0,26,24.0,8.0,158189.0,Production,ANVL,TBA,
+72,72,F8C Lightning Executive-Edition,Small,Heavy Fighter,212.0,1337.0,0,1.0,1.0,26,24.0,8.0,158189.0,Production,ANVL,TBA,
+78,78,Gladiator,Small,Bomber,200.0,980.0,0,1.0,2.0,22.5,22.5,6.0,87497.0,Flight Ready,ANVL,,
+79,79,Gladius,Small,Light Fighter,207.0,1235.0,0,1.0,1.0,20,17.0,5.5,57685.05,Flight Ready,AEGS,,
+80,80,Gladius Valiant,Small,Light Fighter,207.0,1235.0,0,1.0,1.0,20,17.0,5.5,57685.06,Flight Ready,AEGS,,
+84,84,Hawk,Small,Light Fighter,200.0,500.0,0,1.0,1.0,17,22.0,6.5,40000.0,Flight Ready,ANVL,Alpha 3.4.0,
+85,85,Herald,Small,Medium Data,235.0,1360.0,0,1.0,1.0,23.5,12.5,9.0,66031.0,Flight Ready,DRAK,Alpha 2.6.0,
+86,86,Hull A,Small,Medium Freight,108.0,1000.0,512,1.0,1.0,22,8.0,4.0,122650.0,Production,MISC,,
+91,91,Hurricane,Small,Heavy Fighter,265.0,1125.0,0,2.0,2.0,22,14.5,6.0,86454.0,Flight Ready,ANVL,,
+96,96,Khartu-Al,Small,Light Fighter,300.0,1325.0,0,1.0,1.0,31.5,12.5,8.5,67115.0,Flight Ready,AOPA,,
+103,103,M50,Small,Racing,330.0,1345.0,0,1.0,1.0,11,10.0,3.0,10580.0,Flight Ready,ORIG,?,
+109,109,Mantis,Small,Military;Stealth,168.0,1220.0,0,1.0,1.0,30,17.0,8.0,225621.0,Flight Ready,RSI,,
+112,112,Mustang Alpha,Small,Cargo,255.0,1160.0,4,1.0,1.0,21.5,18.0,9.0,32970.0,Flight Ready,CNOU,?,
+113,113,Mustang Alpha Vindicator,Small,Starter;Light Freight,255.0,1160.0,4,1.0,1.0,17.5,15.5,5.5,32970.0,Flight Ready,CNOU,?,
+114,114,Mustang Beta,Small,Pathfinder,250.0,1215.0,0,1.0,1.0,21.5,18.0,9.0,39610.0,Flight Ready,CNOU,?,
+115,115,Mustang Delta,Small,Light Fighter,240.0,1225.0,0,1.0,1.0,21,18.0,9.0,37345.0,Flight Ready,CNOU,,
+116,116,Mustang Gamma,Small,Racing,325.0,1340.0,0,1.0,1.0,21.5,18.0,9.0,30263.0,Flight Ready,CNOU,?,
+117,117,Mustang Omega,Small,Racing,325.0,1340.0,0,1.0,1.0,21.5,18.0,9.0,30263.0,Flight Ready,CNOU,?,
+120,120,Nomad,Small,Light Freight,180.0,1171.0,24,1.0,1.0,26.5,18.3,9.2,228123.0,Flight Ready,CNOU,,
+129,129,Pirate Gladius,Small,Light Fighter,207.0,1235.0,0,1.0,1.0,20,17.0,5.5,57685.06,Flight Ready,AEGS,,
+131,131,Prospector,Small,Prospecting and Mining,200.0,1210.0,0,1.0,1.0,24,15.0,7.0,146117.98,Flight Ready,MISC,,
+135,135,Razor,Small,Racing,335.0,1345.0,0,1.0,1.0,11.5,8.2,2.7,10925.0,Flight Ready,MISC,Alpha 3.1.0,
+136,136,Razor EX,Small,Stealth,325.0,1340.0,0,1.0,1.0,11.5,8.2,2.7,10925.0,Flight Ready,MISC,?,
+137,137,Razor LX,Small,Luxury,340.0,1345.0,0,1.0,1.0,11.5,8.2,2.7,10925.0,Flight Ready,MISC,?,
+141,141,Reliant Kore,Small,Starter;Light Freight,220.0,1150.0,6,1.0,2.0,14.5,28.5,4.0,38566.0,Flight Ready,MISC,Alpha 2.5.0,
+142,142,Reliant Mako,Small,Reporting,166.0,1150.0,0,1.0,2.0,14.5,28.5,4.0,38566.0,Flight Ready,MISC,Alpha 3.5.0,
+143,143,Reliant Sen,Small,Light Science,166.0,1150.0,2,1.0,2.0,14.5,28.5,4.0,38566.0,Flight Ready,MISC,Alpha 3.5.0,
+144,144,Reliant Tana,Small,Light Fighter,166.0,1150.0,1,1.0,2.0,14.5,28.5,4.0,38566.0,Flight Ready,MISC,,
+147,147,SRV,Small,Industrial;Civilian,200.0,1215.0,10,1.0,1.0,28.5,19.5,8.7,231680.0,Announced,ARGO,TBA,
+148,148,Sabre,Small,Stealth Fighter,275.0,1235.0,0,1.0,1.0,24,26.0,5.0,92235.71,Flight Ready,AEGS,,
+149,149,Sabre Comet,Small,Stealth Fighter,215.0,1235.0,0,1.0,1.0,24,26.0,5.0,78513.0,Flight Ready,AEGS,Alpha 2.6.0,
+150,150,Sabre Raven,Small,Interdiction,275.0,1235.0,0,1.0,1.0,24,20.5,5.0,69433.0,Flight Ready,AEGS,Alpha 3.0.0,
+152,152,Scorpius,Small,Heavy Fighter,218.0,1250.0,0,1.0,2.0,24.5,33.0,13.2,97562.0,Production,RSI,,
+153,153,Scythe,Small,Medium Fighter,194.0,1230.0,0,1.0,1.0,31,23.0,8.5,73941.98,Flight Ready,[[Vanduul Clans (originally)Esperia (human conversion)]],,
+154,154,Scythe (vanduul),Small,Medium Fighter,194.0,1230.0,0,1.0,1.0,31,23.0,8.5,73942.0,Production,VNCL,,
+157,157,Talon,Small,Light Fighter,250.0,1235.0,0,1.0,1.0,20,18.0,5.0,60836.04,Flight Ready,ESRA,,
+158,158,Talon Shrike,Small,Light Fighter,250.0,1235.0,0,1.0,1.0,20,18.0,5.0,60836.04,Flight Ready,ESRA,,
+159,159,Terrapin,Small,Pathfinder,210.0,1205.0,0,1.0,1.0,19.5,14.5,6.0,172377.97,Flight Ready,ANVL,Alpha 3.1.0,
+160,160,Valkyrie,Small,Military;Industrial,165.0,1100.0,30,1.0,5.0,38,28.0,9.5,75000.0,Flight Ready,ANVL,Alpha 3.3.0,
+161,161,Valkyrie Best in Show 2950 Edition,Small,Military;Industrial,165.0,1100.0,30,1.0,5.0,38,28.0,9.5,75000.0,Flight Ready,ANVL,Alpha 3.11.1,
+162,162,Valkyrie Liberator Edition,Small,Military;Industrial,165.0,1100.0,30,1.0,5.0,38,28.0,9.5,75000.0,Flight Ready,ANVL,?,
+169,169,Vulture,Small,Light Salvage,165.0,1215.0,12,1.0,1.0,33,16.0,9.0,114591.0,Production,DRAK,TBA,

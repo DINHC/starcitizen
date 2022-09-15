@@ -1,0 +1,40 @@
+,Unnamed: 0,Name,Size,Role,SCM(m/s),Boost(m/s),SCU(kg),Crew min,Crew max,Length(m),Beam(m),Height(m),Mass(kg),Status,Manufacturer,Patch release,Cost (Dollars)
+7,7,400i,Large,Pathfinder,184.0,1249.0,42,1.0,3.0,60,32.0,12.5,455927.06,Flight Ready,ORIG,,250.0
+8,8,600i Executive-Edition,Large,Expedition,145.0,975.0,40,2.0,5.0,91.5,52.0,17.0,1576792.0,Flight Ready,ORIG,,25000.0
+9,9,600i Explorer,Large,Expedition,145.0,975.0,40,2.0,5.0,91.5,52.0,17.0,1626251.25,Flight Ready,ORIG,,475.0
+10,10,600i Touring,Large,Touring,135.0,950.0,16,3.0,5.0,91.5,52.0,17.0,1576792.0,Flight Ready,ORIG,,350.0
+13,13,A2 Hercules Starlifter,Large,Transport Gunship,135.0,961.0,216,1.0,8.0,94,70.0,23.0,3191991.75,Flight Ready,CRSD,,700.0
+14,14,Apollo Medivac,Large,Support - Medical,195.0,1100.0,28,1.0,2.0,43,30.0,10.0,376500.0,Announced,RSI,TBA,275.0
+15,15,Apollo Triage,Large,Support - Medical,205.0,1210.0,28,1.0,2.0,43,30.0,10.0,376500.0,Announced,RSI,TBA,250.0
+32,32,C2 Hercules Starlifter,Large,Transport,135.0,962.0,696,,2.0,94,70.0,23.0,3193461.0,Flight Ready,CRSD,,
+35,35,Carrack,Large,Expedition,208.0,1076.0,456,4.0,6.0,126.5,76.5,30.0,4397858.0,Flight Ready,ANVL,,
+36,36,Carrack Best in Show 2950 Edition,Large,Expedition,208.0,1076.0,456,4.0,6.0,126.5,76.5,30.0,4397858.0,Flight Ready,ANVL,,
+37,37,Carrack Expedition,Large,Expedition,208.0,1076.0,456,4.0,6.0,126.5,76.5,30.0,4397858.0,Flight Ready,ANVL,,
+38,38,Caterpillar,Large,Transport,130.0,890.0,564,2.0,4.0,111.5,39.0,13.5,1673626.25,Flight Ready,DRAK,,
+39,39,Caterpillar Best In Show Edition,Large,Transport,130.0,890.0,564,2.0,4.0,111.5,39.0,13.5,1608205.0,Flight Ready,DRAK,,
+40,40,Caterpillar Pirate Edition,Large,Transport,130.0,890.0,564,2.0,4.0,111.5,39.0,13.5,1608205.0,Flight Ready,DRAK,,
+42,42,Constellation Andromeda,Large,Medium Freight;Gunship,190.0,910.0,96,3.0,4.0,61,26.0,14.0,436531.22,Flight Ready,RSI,,
+43,43,Constellation Aquila,Large,Expedition,190.0,985.0,96,3.0,4.0,61,26.0,14.0,453823.25,Flight Ready,RSI,,
+44,44,Constellation Phoenix,Large,Touring,120.0,900.0,96,3.0,4.0,61,26.0,14.0,417510.0,Flight Ready,RSI,Alpha 3.3.0,
+45,45,Constellation Phoenix Emerald,Large,Touring,120.0,900.0,96,3.0,4.0,61,26.0,14.0,417510.0,Flight Ready,RSI,Alpha 3.4.0,
+46,46,Constellation Taurus,Large,Medium Freight,114.0,911.0,174,3.0,4.0,61,26.0,14.0,431529.28,Flight Ready,RSI,,
+47,47,Corsair,Large,Exploration,160.0,950.0,72,1.0,4.0,55,27.0,31.0,434629.0,Production,DRAK,TBA,
+48,48,Crucible,Large,Heavy Repair,140.0,900.0,230,3.0,8.0,90,50.0,20.0,3650500.0,Announced,ANVL,TBA,
+77,77,Genesis Starliner,Large,Passenger,160.0,950.0,300,2.0,8.0,85,90.0,16.0,3120000.0,Announced,CRSD,TBA,
+82,82,Hammerhead,Large,Heavy Gunship,105.0,1000.0,40,3.0,8.0,115,75.0,16.0,4630030.0,Flight Ready,AEGS,Alpha 3.3.0,
+83,83,Hammerhead Best In Show Edition,Large,Heavy Gunship,105.0,1000.0,40,3.0,8.0,115,75.0,16.0,4260000.0,Flight Ready,AEGS,,
+88,88,Hull C,Large,Heavy Freight,90.0,900.0,"4,608",2.0,4.0,125,55.0,55.0,886930.0,Production,MISC,,
+101,101,Liberator,Large,Transporter,115.0,970.0,400,1.0,2.0,119,67.0,25.0,2600820.0,Announced,ANVL,,
+102,102,M2 Hercules Starlifter,Large,Transport Military,130.0,962.0,522,1.0,3.0,94,70.0,23.0,3139240.0,Flight Ready,CRSD,,
+110,110,Merchantman,Large,Heavy Freight,200.0,1150.0,2880,4.0,8.0,160,160.0,65.0,9635000.0,Production,SOUL,,
+118,118,Nautilus,Large,Minelayer,115.0,950.0,64,4.0,8.0,125,72.0,21.6,13526320.0,Announced,AEGS,TBA,
+119,119,Nautilus Solstice,Large,Minelayer,115.0,950.0,64,4.0,8.0,125,72.0,21.6,13526320.0,Announced,AEGS,TBA,
+121,121,Odyssey,Large,Expedition,70.0,950.0,252,1.0,6.0,140,90.0,35.0,453823.0,Announced,MISC,,
+127,127,Perseus,Large,Gunship,92.0,1120.0,50,6.0,6.0,100,50.0,21.0,3560000.0,Concept,RSI,TBA,
+138,138,Reclaimer,Large,Heavy Salvage,100.0,930.0,180,4.0,5.0,155,118.0,50.0,9500158.0,Flight Ready,AEGS,Alpha 3.1.0,
+139,139,Reclaimer Best In Show Edition,Large,Heavy Salvage,100.0,930.0,180,4.0,5.0,155,118.0,50.0,9500158.0,Flight Ready,AEGS,?,
+145,145,Retaliator Base,Large,Heavy Bomber,185.0,815.0,0,4.0,7.0,69.5,42.5,12.5,300392.0,Production,AEGS,TBA,
+146,146,Retaliator Bomber,Large,Heavy Bomber,145.0,814.0,0,4.0,7.0,69.5,42.5,12.5,348634.34,Flight Ready,AEGS,,
+155,155,Starfarer,Large,Heavy Refuelling,85.0,890.0,291,4.0,8.0,101,46.5,23.5,3510025.0,Flight Ready,MISC,,
+156,156,Starfarer Gemini,Large,Heavy Refuelling,85.0,890.0,291,4.0,6.0,101,46.5,23.5,3517864.0,Flight Ready,MISC,,
+167,167,Void,Large,Heavy Bomber,85.0,900.0,0,1.0,5.0,124,90.0,33.0,106460.0,Production,VNCL,,
