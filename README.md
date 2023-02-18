@@ -44,7 +44,9 @@ Notes of What is Done/Attempts:
           
    5. Create a new jupyter notebook with all necessary dependencies
 
-   6. In Jupyter Notebook, multiple graphs were made that focused on the ship size (Snub, Small, Large, Capital)
+   6. In Jupyter Notebook, multiple dataframes were made that focused on the ship size (Snub, Small, Large, Capital)    
+        A. Different graphs were then made focsuing on ship boost speed and combat speed 
+        B. Exported the different dataframes as CSVs (each one corresponding to the ship size).
 
    7. Created a new CSV called starcitizenSQL.csv. Had to adjust data for pgAdmin but was able to import into pgAdmin 
    
