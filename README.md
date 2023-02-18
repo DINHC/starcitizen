@@ -30,7 +30,7 @@ Within the data set several abbreviations/words can be seen at the top of the co
     Patch Release = When the ships were released or had reworked done to either balance them out or work out some bugs
 
 
-Steps: 
+Notes of What is Done/Attempts: 
   
    1. Create a ipynb script to read the url and create a dataframe from the scraped table
     
@@ -43,3 +43,9 @@ Steps:
           *Pivot tables were made but due to some unknown error the data from a previous excel file was lost leaving behind the pivot tables which were turned into an incomplete data set. Data has been restored but I will avoid pivot tables for now.
           
    5. Create a new jupyter notebook with all necessary dependencies
+
+   6. In Jupyter Notebook, multiple graphs were made that focused on the ship size (Snub, Small, Large, Capital)
+
+   7. Created a new CSV called starcitizenSQL.csv. Had to adjust data for pgAdmin but was able to import into pgAdmin 
+   
+   8. Added a .sql file that list the table schema and query code use to test. 
